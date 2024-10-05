@@ -1,6 +1,6 @@
 # Azure - HashiCorp Certified: Terraform Associate - 70 Demos
 [![Image](https://stacksimplify.com/course-images/azure-hashicorp-certified-terraform-associate-highest-rated.png "Azure - HashiCorp Certified: Terraform Associate - 70 Demos")](https://links.stacksimplify.com/azure-hashicorp-certified-terraform-associate)
-
+#new line
 
 ## Course Modules
 01. Infrastructure as Code (IaC)
